@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561865835029",
+    "project_id": "mmacil",
+    "storage_bucket": "mmacil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561865835029:android:cd97d5f1087e8bd1c2041c",
+        "android_client_info": {
+          "package_name": "com.gazi.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561865835029-3b48i1f2qh6lmeoes300chuaksde58fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUm4lnsbLCAcsbToOKALvuXnLFYOcSS7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561865835029-3b48i1f2qh6lmeoes300chuaksde58fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
